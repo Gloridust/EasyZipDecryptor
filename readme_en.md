@@ -18,7 +18,7 @@ pip install rarfile zipfile py7zr
 ```
 
 ## Usage
-1. Create a Dictionary File: Prepare a dictionary file containing the list of passwords. Each password should be on a separate line. You can customize the password list as needed for your research. In [My Clouddisk](https://cloud.gloridust.xyz/s/5mu3), we provide a simple password dictionary. You can use it after unzipping. The content of the dictionary comes from the Internet.
+1. Create a Dictionary File: Prepare a dictionary file containing the list of passwords. Each password should be on a separate line. You can customize the password list as needed for your research. In [My Clouddisk](https://cloud.gloridust.xyz/s/5mu3), we provide a simple password dictionary. You can use it after unzipping. The content of the dictionary comes from the Internet.(in [./dic/passwords.zip](./dic/passwords.zip) is also avavaible.)
 
 
 2. Run the Script: Open a terminal or command prompt, navigate to the directory containing the script file, and run the Python script. Follow the prompts to input the dictionary file location and the compressed file location.
